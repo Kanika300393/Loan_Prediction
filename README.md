@@ -1,5 +1,8 @@
 # Loan Prediction SVM Model
 
+![file](https://github.com/user-attachments/assets/6d3ff477-12a3-46f9-bf9c-e13c1af11d72)
+
+
 ## Overview
 
 This project involves building a Support Vector Machine (SVM) model to predict loan approval status based on various applicant attributes. The model is trained using the Loan Prediction dataset and demonstrates data preprocessing, exploratory data analysis, and model evaluation.

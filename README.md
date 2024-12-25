@@ -77,6 +77,14 @@ Train a Support Vector Machine classifier with a linear kernel using the trainin
 
 Evaluate the model's performance using accuracy scores for both training and test datasets.
 
+## Visualization
+
+![feature_correlation_heatmap](https://github.com/user-attachments/assets/70c712fd-66c0-4cbf-88cf-2d500b062446)
+
+
+![loan_status_distribution](https://github.com/user-attachments/assets/8897516b-3408-40ef-9d19-ce8c21687445)
+
+
 ## Results
 
 **Training Accuracy**: Calculated during evaluation.

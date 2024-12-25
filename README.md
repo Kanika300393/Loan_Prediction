@@ -21,29 +21,25 @@ Model evaluation using accuracy scores on both training and test datasets.
 
 The dataset used for this project contains the following columns:
 
-**Loan_ID**: Unique Loan Identifier (excluded during training).
 
-**Gender**: Gender of the applicant.
-
-**Married**: Marital status of the applicant.
-
-**Dependents**: Number of dependents.
-
-**Education**: Graduate or Not Graduate.
-
-**Self_Employed**: Employment status.
-
-**ApplicantIncome**: Applicant's income.
-
-**CoapplicantIncome**: Co-applicant's income.
-
-**LoanAmount**: Loan amount in thousands.
-
-**Loan_Amount_Term**: Term of the loan in months.
-
-**Credit_History**: Credit history meets guidelines (1: Yes, 0: No).
+| Column Name         | Description                                                |
+|---------------------|------------------------------------------------------------|
+| Loan_ID             | Unique Loan Identifier (excluded during training).        |
+| Gender              | Gender of the applicant.                                   |
+| Married             | Marital status of the applicant.                           |
+| Dependents          | Number of dependents.                                      |
+| Education           | Graduate or Not Graduate.                                  |
+| Self_Employed       | Employment status.                                         |
+| ApplicantIncome     | Applicant's income.                                        |
+| CoapplicantIncome   | Co-applicant's income.                                     |
+| LoanAmount          | Loan amount in thousands.                                  |
+| Loan_Amount_Term    | Term of the loan in months.                                |
+| Credit_History      | Credit history meets guidelines (1: Yes, 0: No).           |
 
 ## Project Workflow
+
+![professional_project_workflow_diagram](https://github.com/user-attachments/assets/b2aaf409-4394-47da-a1f4-3b836cb4d93f)
+
 
 ### 1. Import Dependencies
 
